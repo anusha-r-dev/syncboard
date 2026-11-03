@@ -17,6 +17,10 @@ changing the UI.
 
 ![SyncBoard offline controls and queued-change state](docs/syncboard-offline.png)
 
+## Live application
+
+**Live Url:** [https://syncboard-sooty.vercel.app/](https://syncboard-sooty.vercel.app/)
+
 ## Highlights
 
 - Four realistic seeded columns and 12 fictional product-planning cards
