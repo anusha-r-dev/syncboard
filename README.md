@@ -11,15 +11,17 @@ boards synchronize through `BroadcastChannel`. Supplying Supabase environment
 variables switches to the optional, lazily loaded internet-capable adapter without
 changing the UI.
 
+## Live application
+
+**Live Url:** [https://syncboard-sooty.vercel.app/](https://syncboard-sooty.vercel.app/)
+
+## Application preview
+
 ![SyncBoard drag, two-tab sync, and offline conflict demo](docs/syncboard-demo.gif)
 
 ![SyncBoard desktop board](docs/syncboard-board.png)
 
 ![SyncBoard offline controls and queued-change state](docs/syncboard-offline.png)
-
-## Live application
-
-**Live Url:** [https://syncboard-sooty.vercel.app/](https://syncboard-sooty.vercel.app/)
 
 ## Highlights
 
